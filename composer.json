@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mhetreramesh\\Flysystem\\": "src"
+            "Mhetreramesh\\Flysystem\\": "vendor/prebit/laravel-backblaze-b2/src/"
         }
     },
     "autoload-dev": {
